@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "R.ComDim"]
+	path = R.ComDim
+	url = https://github.com/f-puig/r.comdim
